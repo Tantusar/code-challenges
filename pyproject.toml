@@ -1,0 +1,17 @@
+[project]
+name = "code-challenges"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "advent-of-code-data>=2.1.0",
+    "dominate>=2.9.1",
+    "everybody-codes-data>=0.4",
+    "ipykernel>=7.1.0",
+    "ipython>=9.7.0",
+    "levenshtein>=0.27.3",
+    "matplotlib>=3.10.7",
+    "more-itertools>=10.8.0",
+    "networkx>=3.5",
+]
